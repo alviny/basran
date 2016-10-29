@@ -1,0 +1,734 @@
+<? 
+$page_title = "Black Belt Test Requirements";
+include "header.php"; ?>
+<div align="center"><a href="#qanda">Q & A</a> | <a href="#tests">Promotion Tests</a> | <a href="#flag">Korean Flag</a> | <a href="bb_app.doc" name="top">Download Application Form</a> | <a href="#breaking" name="top">Breaking Requirements</a></div>
+<a name="qanda"></a><div align="center"><h2><u>Question and Answers</u></h2></div>
+<ol>
+	<li><p>What is the meaning of our Cheung’s Taekwondo® Crest?</p>
+		<table width="95%" align="center">
+		<tr>
+			<td valign="top">Red</td>
+			<td>Physical</td>
+		</tr>
+		<tr>
+			<td valign="top">Blue</td>
+			<td>Mental, Spiritual</td>
+		</tr>
+		<tr>
+			<td valign="top">Silver</td>
+			<td>Polish to Shine</td>
+		</tr>
+		<tr>
+			<td valign="top">Figure in the middle</td>
+			<td>Represents our break through in different tasks and aspects of life</td>
+		</tr>
+		<tr>
+			<td valign="top">Cheung’s in Red	</td>
+			<td>Cheung’s technique and philosophy are expressed physically</td>
+		</tr>
+		<tr>
+			<td valign="top">Taekwondo in Blue</td>
+			<td>Taekwondo is a study of a philosophy (Tao)</td>
+		</tr>
+		</table>
+	</li>
+	<li><p>What is our Motto?</p>
+	<div align="center"><i><b>Strive > Succeed > Surpass</b></i></div>
+	<li><p>What is the colour "Gold" represents on the black belt?</p>
+	The colour "Gold" represents Truth, Honesty and Integrity.
+	<li><p>Why do we wear our ranks on the left side?</p>
+	We wear our crest on the left and since it is our school that give us the rank, we wear the rank right below it.
+	<li><p>When do we celebrate Cheung’s Taekwondo&reg; anniversary?</p>
+	We celebrate on February 18th every year because Cheung’s Taekwondo® was established in Brampton on February 18, 1977.
+	<li><p>What International organization do we belong to?</p>
+	We belong to the World Taekwondo Federation, Seoul, South Korea.
+	<li><p>Which Olympic Games were Taekwondo staged as a demonstration sport?</p>
+	Taekwondo were staged as a demonstration sport at the 1988 Olympics in Seoul, South Korea and 1992 Olympics in Barcelona, Spain.
+	<li><p>Which Olympics did Taekwondo stage for the 1st time an Olympic Medal Sport?</p>
+	Taekwondo was staged for the 1st time as an Olympic Medal Sport in the 2000 Olympics, Sydney, Australia.
+	<li><p>According to the Ontario Taekwondo Association, what rank does a Master hold?</p>
+	A Master holds the rank of a 4th Dan.
+	<li><p>According to the Ontario Taekwondo Association, what rank does a Grand Master hold?</p>
+	A Grand Master holds the rank of a 7th Dan.
+	<li><p>According to the World Taekwondo Federation, what rank does a Master hold?</p>
+	A Master holds the rank of 6th Dan certified by the Kukkiwon, Korea.
+	<li><p>What is the "Kukkiwon"?</p>
+	"Kukkiwon" is the World Taekwondo Headquarters located in Seoul, South Korea and its function is to govern black belt certification around the World.
+	<li><p>What do all the colours of our belt system represent?</p>
+	<u>White</u> represents purity, innocence and open mind (receptive for learning without conditions)<br />
+	<u>Yellow</u> represents truth, honesty, and the good seed<br />
+	<u>Green</u> represents growth, life and flexibility<br />
+	<u>Blue</u> represents the sky, limitless and the mind<br />
+	<u>Red</u> represents the sun, limitation and the physical<br />
+	<u>Black</u> represents all colours and what they represent; darkness (our journey is like searching in the darkness, we can lose our direction easily)
+	<li><p>According to the Kukkiwon, at what age does one wear a black belt?</p>
+	One wears the black belt when one reaches the age of 15.
+	<li><p>According to the Kukkiwon, what happens to someone who reaches a black belt level but not reach the age of 15?</p>Anyone who has not reached the age of 15 is classified as a junior black belt called "Poom" and it has 4 levels 1st to 4th Poom and the holder shall wear a black/red belt.</li>
+</ol>
+<div align="center"><a href="#top">back to top</a></div>
+<br /><br /><br />
+<a name="tests"></a><div align="center"><h2><u>Promotion Testing</u></h2></div>
+<p>Promotion testing is a valuable commitment in your own personal growth in Taekwondo.  You will make the most progress during the time surrounding a test.  Taking any test requires commitment, forcing your mind and body to work as one.  This state of cooperation between the body and mind is concentration.  You must train your mind to bar all irrelevant matters from your conscience.  For a better result, you must work towards one goal at a time.  This ability of focusing is the essence of concentration.  Once you realize how this principle works, it can be applicable to almost anything or applied anywhere, whatever the nature of the work.  You must first make a personal commitment in order to become a professional person, a successful athlete or to pursue any career successfully.</p>
+<p>All promotion tests provide added pressure for the performer because everyone wants to do well.  This sincere attitude is not generated by one, but all students.  Yellow Stripes that test for the first time before a large audience and in front of stone faced Examiners (Sim Sa Kwan) are a good example of this intense atmosphere.  The performance really matters only to the person performing and not the examiners, spectators or the other students.  They are only onlookers and examiners are there to score your performance.  </p>
+<p>However, most beginners put too much emphasis on what other people think about their performance and therefore cannot concentrate on putting forward their best effort.  Gradually, as a student takes more tests, he or she will begin to develop self-reliance.</p>
+<p>In order for meaningful progress, the Promotion test is a very essential part of the training process.</p>
+<b><u>Black Belt Promotion Test - Part 1</u></b>
+<ol type="a">
+<? /*	<li>3 sets of Hand Motions and Poomsae test (1 repeat allowed for each poomsae to a maximum of 3 different poomsae)</li>
+	<li>Kicking combination, paddle and shield drills.</li>
+	<li>Sparring to a minimum of 2 minutes each with 3 individuals</li>
+	<li>Hand Breaking and Foot Breaking (bring extras boards, mark them with your initials and tape the boards prior to the testing.</li>
+	<li>Hand and Foot Breaking: refer to Breaking Requirement 2007 (consider 1 cement slab equivalent to 4 boards).</li> */ ?>
+	<li>Written Test</li>
+    <li>Referee Signal Test</li>
+    <li>Essay Due</li>
+</ol>
+<b><u>Black Belt Promotion Test - Part 2</u></b>
+<ol type="a">
+	<li>3 Sets of Hand Motions and Poomsae Test (No repeat allowed).</li>
+	<li>Poomsae – Compulsory; Poomsae Of Your Choice; 2 Poomsaes of Grand Master Cheung’s Choice.</li>
+	<li>Sparring with 1 applicants for 2 Rounds – 1st Round demonstrating Control & Respect (Martial Art Criteria) and 2nd Round demonstrating Scoring (WTF Competition Criteria).</li>
+	<li>Hand & Foot Breaking: Refer to Breaking Requirements (consider 1 Cement Slab equivalent to 4 Boards).</li>
+</ol>
+<a name="flag"></a><div align="center"><h2><u>The Korean National Flag - TAE GEUK KI</u></h2></div>
+<p>The Korean flag symbolizes much of the thought, philosophy and mysticism of the Orient.  The symbol, and sometimes the flag itself is called Tae Geuk.</p>
+<p>Depicted on the flap is a circle divided equally and in perfect balance.  The upper (red) section represents the Yang and the lower (blue) section the Um, an ancient symbol of the universe.  These two opposites express the dualism of the cosmos; fire and water, day and night, dark and light, construction and deconstruction, masculine and feminine, active and passive, hot and cold, plus and minus, and so on.</p>
+<p>The central thought in the Tae Geuk indicates that while there is constant movement within the sphere of infinity, there are also balance and harmony.</p>
+<p>Three bars at each corner also carry the ideas of opposition and balance.  The three unbroken lines stand for "heaven"; the opposite 3 broken lines represent the "earth".  At the lower left hand corner of the flag are 2 unbroken lines with a broken line in between symbolizes "fire".  The opposite 2 broken lines with an unbroken line in between is the symbol of "water".</p>
+<div align="center"><img src="images/korean_flag.jpg" width="280" height="187" border="0" alt=""></div>
+<div align="center"><a href="#top">back to top</a></div>
+<br /><br /><br />
+<div align="center"><a name="breaking"><h2><u>Breaking Requirements</u></h2></a></div>
+<table border="1" cellpadding="5" cellspacing="0">
+<tr>
+	<td colspan="6" align="center"><img src="images/cheungs_blackbelt.gif" height="110" border="0" alt="black belt"></td>
+</tr>
+<tr>
+	<td colspan="6" align="center"><b>* Passing Mark: 5 *</b></td>
+</tr>
+
+<tr>
+	<td colspan="6" align="center">Extra Attempt ( Minus 0.5 Point )</td>
+</tr>
+<tr>
+	<td colspan="6" align="center">Down Size Boards ( Minus 1 Point )</td>
+</tr>
+<tr>
+	<td colspan="6" align="center">Extra Board ( Add 1 Point )</td>
+</tr>
+<tr>
+	<td colspan="6" align="center">Boards Held With One Hand ( Add 1 Point )</td>
+</tr>
+<tr>
+	<td colspan="6" align="center">Boards Held With Own Hand ( Add 1.5 Points)</td>
+</tr>
+<tr>
+	<td colspan="6" align="center">Boards Held With Strings ( Add 2 Points )</td>
+</tr>
+<tr>
+	<td colspan="6" align="center">Boards Broken In The Air ( Add 2.5 Points )</td>
+</tr>
+
+<tr>
+	<td valign="top">Any Rank</td>
+	<td valign="top" colspan="5" align="">Cement Slab (Supply Your Own) - 1 Slab Equal to 4 Boards Strength -Hand Techniques Only	</td>
+</tr>
+
+<tr>
+	<th valign="top">To Test For</th>
+	<th valign="top">Weight /<br /> All Ages</th>
+	<th valign="top">No. of Boards</th>
+	<th valign="top">Size</th>
+	<th valign="top">Techniques</th>
+	<th valign="top">1st Attempt<br />Score</th>
+</tr>
+
+<tr>
+	<td valign="top" align="center" rowspan="9">1st Dan/Poom<br />(Hand)</td>
+	<td valign="top" align="center" rowspan="7">Under 90 lbs.</td>
+	<td valign="top" align="center" rowspan="7">2 Boards</td>
+	<td valign="top" align="center" rowspan="7">7"x12"</td>
+	<td valign="top" align="center"><i>Elbow (Kids & Women Only)</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Knife Hand, Knife Fist </i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Palm</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Forefist</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Ridge Hand</i></td>
+	<td valign="top" align="center">7.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Back Fist</i></td>
+	<td valign="top" align="center">8</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Spear Finger (Demo Boards)</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	
+	<td valign="top" align="center">Over 91 lbs.</td>
+	<td valign="top" align="center">2 Boards</td>
+	<td valign="top" align="center">9"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	
+	<td valign="top" align="center">Over 145 lbs.</td>
+	<td valign="top" align="center">2 Boards</td>
+	<td valign="top" align="center">11"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center" rowspan="14">1st Dan/Poom<br />(Foot)</td>
+	<td valign="top" align="center" rowspan="12">Under 90 lbs.</td>
+	<td valign="top" align="center" rowspan="12">2 Boards</td>
+	<td valign="top" align="center" rowspan="12">7"x12"</td>
+	<td valign="top" align="center"><i>Flying Side Kick</i></td>
+	<td valign="top" align="center">5.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Side Kick</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Side Kick</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Round House </i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Front Kick & Round House Kick</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Back Kick</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Chop Kick, Stationary Kicks</i></td>
+	<td valign="top" align="center">7.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Chop & Sliding Hook Kicks</i></td>
+	<td valign="top" align="center">8</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Spinning Heel Kick</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Jump Kicks</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Aerial Tornado & 360 Kicks</i></td>
+	<td valign="top" align="center">9</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Demo Kicks (2 Boards Each Side)</i></td>
+	<td valign="top" align="center">9</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center">Over 91 lbs.</td>
+	<td valign="top" align="center">2 Boards</td>
+	<td valign="top" align="center">9"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 145 lbs.</td>
+	<td valign="top" align="center">2 Boards</td>
+	<td valign="top" align="center">11"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center" rowspan="9">1st Dan/Poom<br />Kukkiwon<br />(Hand)</td>
+	<td valign="top" align="center" rowspan="7">Under 90 lbs.</td>
+	<td valign="top" align="center" rowspan="7">2 Boards</td>
+	<td valign="top" align="center" rowspan="7">7"x12"</td>
+	<td valign="top" align="center"><i>Elbow (Kids & Women Only)</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Knife Hand, Knife Fist </i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Palm</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Forefist</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Ridge Hand</i></td>
+	<td valign="top" align="center">7.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Back Fist</i></td>
+	<td valign="top" align="center">8</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Spear Finger (Demo Boards)</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	
+	<td valign="top" align="center">Over 91 lbs.</td>
+	<td valign="top" align="center">2 Boards</td>
+	<td valign="top" align="center">9"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	
+	<td valign="top" align="center">Over 145 lbs.</td>
+	<td valign="top" align="center">2 Boards</td>
+	<td valign="top" align="center">11"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center" rowspan="14">1st Dan/Poom<br />Kukkiwon<br />(Foot)</td>
+	<td valign="top" align="center" rowspan="12">Under 90 lbs.</td>
+	<td valign="top" align="center" rowspan="12">3 Boards</td>
+	<td valign="top" align="center" rowspan="12">7"x12"</td>
+	<td valign="top" align="center"><i>Flying Side Kick</i></td>
+	<td valign="top" align="center">5.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Side Kick</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Side Kick</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Round House </i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Front Kick & Round House Kick </i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Back Kick</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Chop Kick, Stationary Kicks</i></td>
+	<td valign="top" align="center">7.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Chop & Sliding Hook Kicks</i></td>
+	<td valign="top" align="center">8</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Spinning Heel Kick(Demo Boards)</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Jump Kicks</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Aerial Tornado & 360 Kicks</i></td>
+	<td valign="top" align="center">9</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Demo Kicks (2 Boards Each Side)</i></td>
+	<td valign="top" align="center">9</td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 91 lbs.</td>
+	<td valign="top" align="center">3 Boards</td>
+	<td valign="top" align="center">9"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 145 lbs.</td>
+	<td valign="top" align="center">3 Boards</td>
+	<td valign="top" align="center">11"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center" rowspan="9">2nd Dan/Poom &<br />2nd Dan/Poom<br />Kukkiwon<br />(Hand)</td>
+	<td valign="top" align="center" rowspan="7">Under 90 lbs.</td>
+	<td valign="top" align="center" rowspan="7">2 Boards</td>
+	<td valign="top" align="center" rowspan="7">7"x12"</td>
+	<td valign="top" align="center"><i>Elbow (Kids & Women Only)</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Knife Hand, Knife Fist</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Palm</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Forefist</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Ridge Hand</i></td>
+	<td valign="top" align="center">7.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Back Fist</i></td>
+	<td valign="top" align="center">8</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Spear Finger(Demo Boards)</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 91 lbs.</td>
+	<td valign="top" align="center">2 Boards</td>
+	<td valign="top" align="center">9"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 145 lbs.</td>
+	<td valign="top" align="center">2 Boards</td>
+	<td valign="top" align="center">11"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+
+<tr>
+	<td valign="top" align="center" rowspan="14">2nd Dan/Poom &<br />2nd Dan/Poom<br />Kukkiwon<br />(Foot)</td>
+	<td valign="top" align="center" rowspan="12">Under 90 lbs.</td>
+	<td valign="top" align="center" rowspan="12">3 Boards</td>
+	<td valign="top" align="center" rowspan="12">7"x12"</td>
+	<td valign="top" align="center"><i>Flying Side Kick</i></td>
+	<td valign="top" align="center">5.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Side Kick</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Side Kick</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+
+
+<tr>
+	<td valign="top" align="center"><i>Sliding Round House Kick</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Front Kick; Round House Kick</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Back Kick</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Chop Kick, Stationary Kicks</i></td>
+	<td valign="top" align="center">7.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Chop & Sliding Hook Kicks</i></td>
+	<td valign="top" align="center">8</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Spinning Heel Kick (Demo Boards)</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Jump Kicks</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Aerial Tornado & 360 Kicks</i></td>
+	<td valign="top" align="center">9</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Demo Kicks (2 Boards Each Side)</i></td>
+	<td valign="top" align="center">9</td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 91 lbs.</td>
+	<td valign="top" align="center">3 Boards</td>
+	<td valign="top" align="center">9"x12"
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 145 lbs.</td>
+	<td valign="top" align="center">3 Boards</td>
+	<td valign="top" align="center">11"x12"
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center" rowspan="9">3rd Dan/Poom &<br />3rd Dan/Poom<br />Kukkiwon<br />(Hand)</td>
+	<td valign="top" align="center" rowspan="7">Under 90 lbs.</td>
+	<td valign="top" align="center" rowspan="7">3 Boards</td>
+	<td valign="top" align="center" rowspan="7">7"x12"</td>
+	<td valign="top" align="center"><i>Elbow (Kids & Women Only)</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Knife Hand, Knife Fist </i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Palm </i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Forefist</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Ridge Hand</i></td>
+	<td valign="top" align="center">7.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Back Fist</i></td>
+	<td valign="top" align="center">8</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Spear Finger (Demo Boards)</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 91 lbs.</td>
+	<td valign="top" align="center">3 Boards</td>
+	<td valign="top" align="center">9"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 145 lbs.</td>
+	<td valign="top" align="center">3 Boards</td>
+	<td valign="top" align="center">11"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center" rowspan="14">3rd Dan/Poom &<br />3rd Dan/Poom<br />Kukkiwon<br />(Foot)</td>
+	<td valign="top" align="center" rowspan="12">Under 90 lbs.</td>
+	<td valign="top" align="center" rowspan="12">3 Boards</td>
+	<td valign="top" align="center" rowspan="12">7"x12"</td>
+	<td valign="top" align="center"><i>Flying Side Kick</i></td>
+	<td valign="top" align="center">5.5</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Sliding Side Kick</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Side Kick</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Sliding Round House </i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Front Kick; Round House Kick</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Back Kick</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Chop Kick, Stationary Kicks</i></td>
+	<td valign="top" align="center">7.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Chop & Sliding Hook Kicks</i></td>
+	<td valign="top" align="center">8</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Spinning Heel Kick (Demo Boards)</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Jump Kicks</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Aerial Tornado & 360 Kicks</i></td>
+	<td valign="top" align="center">9</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Demo Kicks (2 Boards Each Side)</i></td>
+	<td valign="top" align="center">9</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center">Over 91 lbs.</td>
+	<td valign="top" align="center">3 Boards</td>
+	<td valign="top" align="center">9"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 145 lbs.</td>
+	<td valign="top" align="center">3 Boards</td>
+	<td valign="top" align="center">11"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center" rowspan="9">4th Dan/Poom<br />& Up<br />(Hand)</td>
+	<td valign="top" align="center" rowspan="7">Under 90 lbs.</td>
+	<td valign="top" align="center" rowspan="7">3 Boards</td>
+	<td valign="top" align="center" rowspan="7">7"x12"</td>
+	<td valign="top" align="center"><i>Elbow (Kids & Women Only)</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Knife Hand, Knife Fist</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Palm</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Forefist</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Ridge Hand</i></td>
+	<td valign="top" align="center">7.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Back Fist</i></td>
+	<td valign="top" align="center">8</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Spear Finger (Demo Boards)</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 91 lbs.</td>
+	<td valign="top" align="center">3 Boards</td>
+	<td valign="top" align="center">9"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 145 lbs.</td>
+	<td valign="top" align="center">3 Boards</td>
+	<td valign="top" align="center">11"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center" rowspan="14">4th Dan/Poom<br />& Up<br />(Foot)</td>
+	<td valign="top" align="center" rowspan="12">Under 90 lbs.</td>
+	<td valign="top" align="center" rowspan="12">4 Boards</td>
+	<td valign="top" align="center" rowspan="12">7"x12"</td>
+	<td valign="top" align="center"><i>Flying Side Kick</i></td>
+	<td valign="top" align="center">5.5</td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><i>Sliding Side Kick</i></td>
+	<td valign="top" align="center">6</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Side Kick</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Round House</i></td>
+	<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Front Kick & Round House Kick</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Back Kick</i></td>
+	<td valign="top" align="center">7</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Chop Kick, Stationary Kicks</i></td>
+	<td valign="top" align="center">7.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Sliding Chop & Sliding Hook Kicks</i></td>
+	<td valign="top" align="center">8</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Spinning Heel Kick (Demo Boards)</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Jump Kicks</i></td>
+	<td valign="top" align="center">8.5</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Aerial Tornado & 360 Kicks</i></td>
+	<td valign="top" align="center">9</td>
+</tr>
+<tr>
+	<td valign="top" align="center"><i>Demo Kicks (2 Boards Each Side)</i></td>
+	<td valign="top" align="center">9</td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 91 lbs.</td>
+	<td valign="top" align="center">4 Boards</td>
+	<td valign="top" align="center">9"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td valign="top" align="center">Over 145 lbs.</td>
+	<td valign="top" align="center">4 Boards</td>
+	<td valign="top" align="center">11"x12"</td>
+	<td valign="top" align="center"><i>Same Criteria</i></td>
+	<td valign="top" align="center"><i>Same</i></td>
+</tr>
+<tr>
+	<td colspan="6" align="center"></td>
+</tr>
+</table>
+
+<div align="center"><a href="#top">back to top</a></div>
+<br /><br /><br />
+
+<? include "footer.php"; ?>
